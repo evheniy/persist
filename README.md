@@ -1,2 +1,1 @@
-# persist
 Redux persist example
